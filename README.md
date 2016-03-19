@@ -1,5 +1,5 @@
-PowerShell-Collection
-=====================
+PowerShellScript-Collection
+===========================
 
 Collection of PowerShell scripts for Windows
 
